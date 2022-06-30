@@ -1,8 +1,8 @@
-### Hi there 👋
+### A whitepaper of sorts. Please contribute.
 
-This is a non-political random thought experiment:
+This is a **non-political** random thought experiment:
 
-Our governance should be version-controlled where every citizen has their own fork of the [nation]'s main repository. Where, say anything unconstitutional would be a literal "breaking change" between MAJOR versions, MINOR version changes would be variable among the sub-federal level, and PATCH version changes would be variable AND common among individuals.
+Our governance should be version-controlled where every citizen has their own fork of the [nation]'s main repository. Where, say anything unconstitutional would be a literal "breaking change" between MAJOR versions, MINOR version changes would be variable among the sub-federal level, and PATCH version changes would be variable AND common among individuals. Reference [semantic versioning](https://semver.org/).
 
 So a process like voting would look less like selecting a representative and more like personally articulating the changes seen fit that a citizen intends to live by. And if enough individuals intend to live by similar articulated principles across many forked versions, the original repository would have to merge these principles into itself thus updating the living documentation of our governance.
 
