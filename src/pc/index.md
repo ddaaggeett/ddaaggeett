@@ -24,3 +24,10 @@ ___
     sudo ln -sf /usr/bin/python3 /usr/bin/python
 
 where [/usr/bin/python3] == `$ which python3`
+___
+
+**convenience commands**
+
+add the following bash commands to `~/.bashrc`:
+
+    alias gl='git log --oneline --decorate --graph --all'
