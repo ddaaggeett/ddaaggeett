@@ -1,8 +1,6 @@
-my pc setup:
+[Debian 11](https://www.debian.org/download)
 
-ubuntu 22.04
-
-- [brave browser](https://brave.com/linux/#release-channel-installation)
+- [brave browser](https://brave.com/linux/#debian-ubuntu-mint)
 - [git](https://git-scm.com/download/linux)
 - [atom.io](https://atom.io)
 - [nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
@@ -29,5 +27,6 @@ ___
 **convenience commands**
 
 add the following bash commands to `~/.bashrc`:
-
-    alias gl='git log --oneline --decorate --graph --all'
+    
+- `alias gl='git log --oneline --decorate --graph --all'`
+- `alias off='systemctl -i suspend'`
