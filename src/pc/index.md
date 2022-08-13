@@ -1,10 +1,10 @@
-[Debian 11](https://www.debian.org/download)
+[Debian 11](https://www.debian.org/download) with some [configuration](./deb.md)
 
 - [brave browser](https://brave.com/linux/#debian-ubuntu-mint)
 - [git](https://git-scm.com/download/linux)
 - [atom.io](https://atom.io)
 - [nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
-- [python](https://www.python.org/downloads/) and handle [some configuration](./py.md)
+- [python](https://www.python.org/downloads/) with some [configuration](./py.md)
 ___
 
 [newwinlogo]: http://i.stack.imgur.com/B8Zit.png
