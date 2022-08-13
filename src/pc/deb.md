@@ -5,5 +5,7 @@ first error prompting this action was installing debian on a laptop thout a hard
 - download `https://cdimage.debian.org/cdimage/unofficial/non-free/firmware/bullseye/current/firmware.zip`
 - extract `/firmware.zip` to `/firmware`
 
-	mv /firmware
-	sudo dpkg -i *.deb
+```
+mv /firmware
+sudo dpkg -i *.deb
+```
