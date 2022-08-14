@@ -24,4 +24,4 @@ place applications in the following order:
 <kbd>![Windows Key][newwinlogo]</kbd> + 4 -> atom.io  
 ___
 
-convenient terminal [commands]('./alias.md')
+convenient terminal [commands](./alias.md)
