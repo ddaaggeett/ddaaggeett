@@ -2,18 +2,6 @@ My last semester of undergrad introduced me to literal computer logic in practic
 
 I want a computer experience that has unlimited potential tooling me with what I require, yet be objectively sufficient giving me no more than I need.
 
-I'm currently using the following system:
+I want to share my current desktop system so you can copy it exactly if you so choose. I'm currently using the following:
 
-Linux: [Debian 11](https://www.debian.org/download) with some [configuration](./deb.md)
-
-- [brave browser](https://brave.com/linux/#debian-ubuntu-mint)
-- [git](https://git-scm.com/download/linux)
-- [atom.io](https://atom.io)
-- [nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
-- [python](https://www.python.org/downloads/) with some [configuration](./py.md)
-- [obs studio](https://idroot.us/install-obs-studio-debian-11/)
-___
-
-[newwinlogo]: http://i.stack.imgur.com/B8Zit.png
-- windows key <kbd>![Windows Key][newwinlogo]</kbd> [shortcuts](./keys.md)  
-- convenient terminal [commands](./alias.md)
+Linux: [Debian 11](https://www.debian.org/download) with some [configuration](./setup/index.md) after a fresh boot. To do this, you'll want to first [create a bootable USB installation disk](https://linuxhint.com/create_bootable_linux_usb_flash_drive/).
