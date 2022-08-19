@@ -14,9 +14,10 @@ unzip main.zip && mv ddaaggeett-main ddaaggeett && cd ddaaggeett
 chmod +x ./src/pc/setup/config.sh
 ./src/pc/setup/config.sh
 ```
-___
 
-personalization:
-
-- windows key <kbd>![Windows Key][newwinlogo]</kbd> [shortcuts](./keys.md)  
+This enables the following:
 - convenient [terminal/bash commands](./alias.md)
+- preferred [software](./apps.md)
+
+preferences:
+- windows key <kbd>![Windows Key][newwinlogo]</kbd> [shortcuts](./keys.md)  

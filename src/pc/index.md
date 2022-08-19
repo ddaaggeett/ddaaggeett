@@ -1,6 +1,4 @@
-My last semester of undergrad introduced me to literal computer logic in practice: [MATLAB](https://matlabacademy.mathworks.com/?s_tid=acb_tut). Not theory, at which I failed miserably in my earlier introductory coursework: C++.
-
-I want a computer experience that has unlimited potential tooling me with what I require, yet be objectively sufficient giving me no more than I need.
+My final semester of undergrad introduced me to computer logic in practice. I used [MATLAB](https://matlabacademy.mathworks.com/?s_tid=acb_tut) to calculate analyses of multivariate data in truss structures. For me, along with linear algebra, it was fundamental to understanding the purpose of a computer. My introductory C++ coursework did no such thing.
 
 I want to share my current desktop system so you can copy it exactly if you so choose. I'm currently using the following:
 
