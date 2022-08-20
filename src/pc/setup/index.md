@@ -1,10 +1,7 @@
-1. Known error: [Debian wifi firmware error handling](./firmware.md). This is unnecessary to handle if you're never going to use WIFI.
-
 [newwinlogo]: http://i.stack.imgur.com/B8Zit.png
+1. Open terminal: Press/release <kbd>![Windows Key][newwinlogo]</kbd> and type `terminal`: select the application
 
-2. Open terminal: Press/release <kbd>![Windows Key][newwinlogo]</kbd> and type `terminal`: select the application
-
-3. Copy + Paste (right click: `paste`) the following in your terminal. This will run the **`config script`**:
+2. Copy + Paste (right click: `paste`) the following in your terminal. This will run the **`config script`**:
 
 ```
 wget https://github.com/ddaaggeett/ddaaggeett/archive/main.zip
@@ -13,9 +10,8 @@ chmod +x ./src/pc/setup/config.sh
 ./src/pc/setup/config.sh
 ```
 
-This enables the following:
-- convenient [terminal/bash commands](./alias.md)
-- preferred [software](./apps.md)
-
-preferences:
-- windows key <kbd>![Windows Key][newwinlogo]</kbd> [shortcuts](./keys.md)  
+This does the following:
+- installs [firmware](./firmware.md)
+- installs preferred [software](./apps.md)
+- sets preferred <kbd>![Windows Key][newwinlogo]</kbd> [key command shortcuts](./keys.md) for workflow
+- enables convenient [terminal commands](./alias.md)

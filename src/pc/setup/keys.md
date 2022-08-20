@@ -1,7 +1,8 @@
 [newwinlogo]: http://i.stack.imgur.com/B8Zit.png
 
 **windows key <kbd>![Windows Key][newwinlogo]</kbd> shortcuts**:  
-place applications in the following order:
+
+Press/Hold <kbd>![Windows Key][newwinlogo]</kbd> **+ number** to open the docked applications:
 
 <kbd>![Windows Key][newwinlogo]</kbd> + 1 -> terminal  
 <kbd>![Windows Key][newwinlogo]</kbd> + 2 -> files  

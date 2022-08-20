@@ -1,5 +1,14 @@
 #!/bin/bash
 
+# install firmware
+wget https://cdimage.debian.org/cdimage/unofficial/non-free/firmware/bullseye/current/firmware.zip
+unzip firmware.zip -d ./firmware
+cd firmware
+sudo dpkg -i *.deb
+cd ..
+rm -rf firmware
+
+# set alias commands
 aliases=(
     "alias gl='git log --oneline --decorate --graph --all'"
     "alias off='systemctl -i suspend'"
@@ -44,5 +53,8 @@ sudo apt install atom -y
 sudo add-apt-repository ppa:obsproject/obs-studio
 sudo apt update
 sudo apt install obs-studio ffmpeg -y
+
+# set favorite app order 1. terminal 2. files 3. brave browser 4. atom.io
+gsettings set org.gnome.shell favorite-apps "['org.gnome.Terminal.desktop', 'org.gnome.Nautilus.desktop', 'brave-browser.desktop', 'atom.desktop']"
 
 exit 0
