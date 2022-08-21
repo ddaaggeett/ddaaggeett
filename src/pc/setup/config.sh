@@ -54,7 +54,7 @@ sudo add-apt-repository ppa:obsproject/obs-studio
 sudo apt update
 sudo apt install obs-studio ffmpeg -y
 
-# set favorite app order 1. terminal 2. files 3. brave browser 4. atom.io
-gsettings set org.gnome.shell favorite-apps "['org.gnome.Terminal.desktop', 'org.gnome.Nautilus.desktop', 'brave-browser.desktop', 'atom.desktop']"
+# set favorite app order 1. terminal 2. files 3. brave browser 4. atom.io 5. OBS studio
+gsettings set org.gnome.shell favorite-apps "['org.gnome.Terminal.desktop', 'org.gnome.Nautilus.desktop', 'brave-browser.desktop', 'atom.desktop', 'com.obsproject.Studio.desktop']"
 
 exit 0
