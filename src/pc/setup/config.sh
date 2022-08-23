@@ -20,6 +20,7 @@ printf "%s\n" "${aliases[@]}" >> ~/.bashrc
 
 sudo apt update
 sudo apt upgrade -y
+sudo apt --fix-broken install
 
 # install brave browser
 sudo apt install apt-transport-https curl -y
@@ -53,6 +54,9 @@ sudo apt install atom -y
 sudo add-apt-repository ppa:obsproject/obs-studio
 sudo apt update
 sudo apt install obs-studio ffmpeg -y
+
+# install yarn
+npm install --global yarn
 
 # set favorite app order 1. terminal 2. files 3. brave browser 4. atom.io 5. OBS studio
 gsettings set org.gnome.shell favorite-apps "['org.gnome.Terminal.desktop', 'org.gnome.Nautilus.desktop', 'brave-browser.desktop', 'atom.desktop', 'com.obsproject.Studio.desktop']"
