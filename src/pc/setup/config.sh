@@ -3,9 +3,7 @@
 # install firmware
 wget https://cdimage.debian.org/cdimage/unofficial/non-free/firmware/bullseye/current/firmware.zip
 unzip firmware.zip -d ./firmware
-cd firmware
-sudo dpkg -i *.deb
-cd ..
+sudo dpkg -i ./firmware/*.deb
 rm -rf firmware
 
 # set alias commands
@@ -48,7 +46,9 @@ sudo ln -sf /usr/bin/python3 /usr/bin/python
 sudo ln -sf /usr/bin/pip3 /usr/bin/pip
 
 # install atom.io
-sudo apt install atom -y
+wget -O atom.deb https://atom.io/download/deb
+sudo dpkg -i atom.deb
+rm -rf atom.deb
 
 # install OBS studio
 sudo add-apt-repository ppa:obsproject/obs-studio
@@ -57,6 +57,16 @@ sudo apt install obs-studio ffmpeg -y
 
 # install yarn
 npm install --global yarn
+
+# install rethinkDB
+export CODENAME=`lsb_release -cs`
+echo "deb https://download.rethinkdb.com/repository/debian-$CODENAME $CODENAME main" | sudo tee /etc/apt/sources.list.d/rethinkdb.list
+wget -qO- https://download.rethinkdb.com/repository/raw/pubkey.gpg | sudo apt-key add -
+sudo apt-get update
+sudo apt-get install rethinkdb
+
+# install Expo-CLI
+npm install --global expo-cli
 
 # set favorite app order 1. terminal 2. files 3. brave browser 4. atom.io 5. OBS studio
 gsettings set org.gnome.shell favorite-apps "['org.gnome.Terminal.desktop', 'org.gnome.Nautilus.desktop', 'brave-browser.desktop', 'atom.desktop', 'com.obsproject.Studio.desktop']"

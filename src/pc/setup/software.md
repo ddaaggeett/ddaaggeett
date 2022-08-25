@@ -4,3 +4,4 @@
 - [nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
 - [python](https://www.python.org/downloads/) with some [configuration](./py.md)
 - [obs studio](https://idroot.us/install-obs-studio-debian-11/)
+- [rethinkDB](https://rethinkdb.com/docs/install/debian/)
