@@ -5,12 +5,8 @@
 
     - `su -` then enter password
     - `visudo`
-    - add line `<your_user_name> ALL=(ALL:ALL) ALL` below the following section, where `<your_user_name>` = `ddaaggeett` (for me) :
-        ```
-        # User privilege specification
-        root    ALL=(ALL:ALL) ALL
-        ```
-        In my case, the section will now look like:
+    - add line `<your_user_name> ALL=(ALL:ALL) ALL` below `# User privilege specification`, where `<your_user_name>` = `ddaaggeett` (for me) :
+
         ```
         # User privilege specification
         root    ALL=(ALL:ALL) ALL
@@ -19,7 +15,7 @@
     - `ctrl + O` - then enter
     - `ctrl + X`
 
-2. Copy + Paste (right click: `paste`) the following in your terminal. This will run the **`config script`**:
+2. Copy + right-click `Paste` the following in your terminal. This will run the **`config script`**:
 
     ```
     wget https://github.com/ddaaggeett/ddaaggeett/archive/main.zip
@@ -27,8 +23,7 @@
     chmod +x ./src/pc/setup/config.sh
     sudo ./src/pc/setup/config.sh
     ```
-
-Using your keyboard, accept all prompts.
+    Using your keyboard, accept all prompts.
  ___
 
 This does the following:
