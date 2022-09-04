@@ -44,6 +44,7 @@ sudo apt install python3-pip -y
 # symlink python3 + pip3
 sudo ln -sf /usr/bin/python3 /usr/bin/python
 sudo ln -sf /usr/bin/pip3 /usr/bin/pip
+pip install opencv-contrib-python
 
 # install atom.io
 wget -O atom.deb https://atom.io/download/deb
@@ -67,6 +68,10 @@ sudo apt-get install rethinkdb
 
 # install Expo-CLI
 npm install --global expo-cli
+
+# install youtube-dl
+sudo wget https://yt-dl.org/downloads/latest/youtube-dl -O /usr/local/bin/youtube-dl
+sudo chmod a+rx /usr/local/bin/youtube-dl
 
 # set favorite app order 1. terminal 2. files 3. brave browser 4. atom.io 5. OBS studio
 gsettings set org.gnome.shell favorite-apps "['org.gnome.Terminal.desktop', 'org.gnome.Nautilus.desktop', 'brave-browser.desktop', 'atom.desktop', 'com.obsproject.Studio.desktop']"
