@@ -17,6 +17,7 @@ aliases=(
     "alias reboot='systemctl -i reboot'"
     "alias poweroff='systemctl -i poweroff'"
     "alias dgd='cd ~/github/ddaaggeett/src/pc/setup && ./config.sh'"
+    "alias lip='hostname -I | awk \"{print \\\$1}\"'"
 )
 
 printf "%s\n" "${aliases[@]}" >> ~/.bashrc

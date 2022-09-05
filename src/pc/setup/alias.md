@@ -5,6 +5,7 @@ The following terminal commands should be ready to run if you've run the `config
 - `reboot`
 - `poweroff`
 - `dgd`: run personal configuration
+- `lip`: print local ip address
 ___
 
 If you haven't run the `config script`, do it manually:
@@ -17,4 +18,5 @@ alias off='systemctl -i suspend'
 alias reboot='systemctl -i reboot'
 alias poweroff='systemctl -i poweroff'
 alias dgd='cd ~/github/ddaaggeett/src/pc/setup && ./config.sh'
+alias lip='hostname -I | awk \"{print \\\$1}\"'
 ```
