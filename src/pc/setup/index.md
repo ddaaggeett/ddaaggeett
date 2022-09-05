@@ -18,8 +18,8 @@
 2. Copy + right-click `Paste` the following in your terminal. This will run the **`config script`**:
 
     ```
-    wget https://github.com/ddaaggeett/ddaaggeett/archive/main.zip
-    unzip main.zip && cd ddaaggeett-main
+    wget https://github.com/ddaaggeett/ddaaggeett/archive/main.zip -P ~/github && cd ~/github
+    sudo unzip main.zip && mv ./ddaaggeett-main ./ddaaggeett && cd ./ddaaggeett
     chmod +x ./src/pc/setup/config.sh
     sudo ./src/pc/setup/config.sh
     ```
@@ -27,7 +27,8 @@
  ___
 
 This does the following:
+- **enables convenient [terminal commands](./alias.md)**
 - installs [firmware](./firmware.md)
-- installs preferred [software](./apps.md)
+- installs preferred [software](./software.md)
 - sets preferred <kbd>![Windows Key][newwinlogo]</kbd> [key command shortcuts](./keys.md) for workflow
-- enables convenient [terminal commands](./alias.md)
+___

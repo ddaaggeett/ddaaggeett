@@ -1,4 +1,8 @@
 #!/bin/bash
+source vars.sh
+printf "\n"
+echo DDAAGGEETT CONFIG VERSION: $version
+printf "\n"
 
 # install firmware
 wget https://cdimage.debian.org/cdimage/unofficial/non-free/firmware/bullseye/current/firmware.zip
@@ -12,6 +16,7 @@ aliases=(
     "alias off='systemctl -i suspend'"
     "alias reboot='systemctl -i reboot'"
     "alias poweroff='systemctl -i poweroff'"
+    "alias dgd='cd ~/github/ddaaggeett/src/pc/setup && ./config.sh'"
 )
 
 printf "%s\n" "${aliases[@]}" >> ~/.bashrc

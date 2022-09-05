@@ -4,6 +4,7 @@ The following terminal commands should be ready to run if you've run the `config
 - `off`: put pc to sleep
 - `reboot`
 - `poweroff`
+- `dgd`: run personal configuration
 ___
 
 If you haven't run the `config script`, do it manually:
@@ -15,4 +16,5 @@ alias gl='git log --oneline --decorate --graph --all'
 alias off='systemctl -i suspend'
 alias reboot='systemctl -i reboot'
 alias poweroff='systemctl -i poweroff'
+alias dgd='cd ~/github/ddaaggeett/src/pc/setup && ./config.sh'
 ```
