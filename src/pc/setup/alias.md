@@ -17,6 +17,6 @@ alias gl='git log --oneline --decorate --graph --all'
 alias off='systemctl -i suspend'
 alias reboot='systemctl -i reboot'
 alias poweroff='systemctl -i poweroff'
-alias dgd='cd ~/github/ddaaggeett/src/pc/setup && ./config.sh'
+alias config='cd ~/github/ddaaggeett/src/pc/bash && ./index.sh'
 alias lip='hostname -I | awk \"{print \\\$1}\"'
 ```

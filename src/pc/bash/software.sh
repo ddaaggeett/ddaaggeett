@@ -1,30 +1,5 @@
 #!/bin/bash
-source vars.sh
-printf "\n"
-echo DDAAGGEETT CONFIG VERSION: $version
-printf "\n"
-
-# install firmware
-wget https://cdimage.debian.org/cdimage/unofficial/non-free/firmware/bullseye/current/firmware.zip
-unzip firmware.zip -d ./firmware
-sudo dpkg -i ./firmware/*.deb
-rm -rf firmware
-
-# set alias commands
-aliases=(
-    "alias gl='git log --oneline --decorate --graph --all'"
-    "alias off='systemctl -i suspend'"
-    "alias reboot='systemctl -i reboot'"
-    "alias poweroff='systemctl -i poweroff'"
-    "alias dgd='cd ~/github/ddaaggeett/src/pc/setup && ./config.sh'"
-    "alias lip='hostname -I | awk \"{print \\\$1}\"'"
-)
-
-printf "%s\n" "${aliases[@]}" >> ~/.bashrc
-
-sudo apt update
-sudo apt upgrade -y
-sudo apt --fix-broken install
+echo installing software
 
 # install brave browser
 sudo apt install apt-transport-https curl -y
@@ -98,8 +73,3 @@ sudo apt install steam
 # install youtube-dl
 sudo wget https://yt-dl.org/downloads/latest/youtube-dl -O /usr/local/bin/youtube-dl
 sudo chmod a+rx /usr/local/bin/youtube-dl
-
-# set favorite app order 1. terminal 2. files 3. brave browser 4. atom.io 5. OBS studio
-gsettings set org.gnome.shell favorite-apps "['org.gnome.Terminal.desktop', 'org.gnome.Nautilus.desktop', 'brave-browser.desktop', 'atom.desktop', 'com.obsproject.Studio.desktop']"
-
-exit 0

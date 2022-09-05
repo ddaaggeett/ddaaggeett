@@ -20,8 +20,8 @@
     ```
     wget https://github.com/ddaaggeett/ddaaggeett/archive/main.zip -P ~/github && cd ~/github
     sudo unzip main.zip && mv ./ddaaggeett-main ./ddaaggeett && cd ./ddaaggeett
-    chmod +x ./src/pc/setup/config.sh
-    sudo ./src/pc/setup/config.sh
+    chmod +x ./src/pc/bash/index.sh
+    sudo ./src/pc/bash/index.sh
     ```
     Using your keyboard, accept all prompts.
  ___
