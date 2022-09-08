@@ -11,7 +11,7 @@ Press/Hold <kbd>![Windows Key][newwinlogo]</kbd> **+ number** to open the docked
 <kbd>![Windows Key][newwinlogo]</kbd> + 5 -> obs studio
 ___
 
-If the `config script` hasn't been run, then handle manually:  
+If the `configuration script` hasn't been run, then handle manually:  
 Run the following in terminal:
 
 ```

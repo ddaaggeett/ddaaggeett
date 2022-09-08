@@ -3,19 +3,19 @@
 
 2. Enter the following in terminal:
 
-    - `su -` then enter password
-    - `visudo`
-    - add line `<your_user_name> ALL=(ALL:ALL) ALL` below `# User privilege specification`, where `<your_user_name>` = `ddaaggeett` (for me) :
+    1. `su -` then enter password
+    2. `visudo`
+    3. add line `<your_user_name> ALL=(ALL:ALL) ALL` below `# User privilege specification`, where `<your_user_name>` = `ddaaggeett` (for me) :
 
         ```
         # User privilege specification
         root    ALL=(ALL:ALL) ALL
         ddaaggeett ALL=(ALL:ALL) ALL
         ```
-    - `ctrl + O` - then enter
-    - `ctrl + X`
+    4. `ctrl + O` - then enter
+    5. `ctrl + X`
 
-2. Copy + right-click `Paste` the following in your terminal. This will run the **`config script`**:
+2. Copy + right-click `Paste` the following in your terminal. This will run the **`configuration script`**:
 
     ```
     wget https://github.com/ddaaggeett/ddaaggeett/archive/main.zip -P ~/github && cd ~/github

@@ -3,14 +3,15 @@ I've been searching for a computer experience that has unlimited potential tooli
 I'd like to share my current desktop system so you can copy it exactly if you so choose.
 
 **YES**, this PC configuration will provide the regular everyday, no-skill PC user experience. The idea Linux is not user-friendly or non-dummy-proof is entirely false. If you don't have an operating system, are loaded with viruses or are done with Windows/MacOS/(Ubuntu :-D), then welcome.
+___
 
- I'm currently using the following:
+ **Copy using the following**:
 
 - Linux: Debian:
 	1. Download the [latest .iso image](https://www.debian.org/download)
 	2. [create a bootable USB installation disk](https://linuxhint.com/create_bootable_linux_usb_flash_drive/) with your downloaded .iso
 	3.  Install Debian from your bootable USB drive with a hard-wired internet connection. Make sure to [change your boot drive order](https://helpdeskgeek.com/how-to/how-to-change-the-boot-order-in-the-bios-on-your-windows-pc/) to recognize your ISO disk first.
-- [configuration](./setup/index.md) after a fresh boot.
+- **[CONFIGURATION](./setup/index.md)** after a fresh boot.
 ___
 
 Why this?

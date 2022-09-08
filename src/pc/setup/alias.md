@@ -1,14 +1,14 @@
-The following terminal commands should be ready to run if you've run the `config script` detailed [here](./index.md)
+The following terminal commands should be ready to run if you've run the `configuration script` explained [here](./index.md)
 
 - `gl`: print any current git repository information
 - `off`: put pc to sleep
 - `reboot`
 - `poweroff`
-- `dgd`: run personal configuration
+- `config`: run personal configuration
 - `lip`: print local ip address
 ___
 
-If you haven't run the `config script`, do it manually:
+If you haven't run the `configuration script`, do it manually:
 
 Add the following bash commands to `/home/[username]/.bashrc`:
 
