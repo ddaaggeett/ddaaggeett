@@ -18,3 +18,6 @@ Representation is legitimate but fails as it requires election cycles.
 We can eliminate both issues.
 
 If we need proof-of-concept that this form could work, look no further than organizational goals such as the [Open Source Initiative](https://opensource.org/osd) and tooling such as [Git](https://git-scm.com/about) with distributed infrastructure such as [GitHub](https://github.com).
+___
+
+Please consider [my other thoughts](./README.md).

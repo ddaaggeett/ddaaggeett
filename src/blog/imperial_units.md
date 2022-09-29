@@ -17,3 +17,6 @@ Unfortunately there isn't a way to replicate my thoughts as I map a measurement 
 - `20% before`
 
 This probably wouldn't fall under best practices, but it turns out to be consistent and reliable ... for me.
+___
+
+Please consider [my other thoughts](./README.md).
