@@ -15,13 +15,13 @@
     4. `ctrl + O` - then enter
     5. `ctrl + X`
 
-2. Copy + right-click `Paste` the following in your terminal. This will run the **`configuration script`**:
+3. Copy + right-click `Paste` the following in your terminal. This will run the **`configuration script`**:
 
     ```
     wget https://github.com/ddaaggeett/ddaaggeett/archive/main.zip -P ~/github && cd ~/github
-    sudo unzip main.zip && mv ./ddaaggeett-main ./ddaaggeett && cd ./ddaaggeett
-    chmod +x ./src/pc/bash/index.sh
-    sudo ./src/pc/bash/index.sh
+    sudo unzip main.zip && mv ./ddaaggeett-main ./ddaaggeett && cd ./ddaaggeett/src/pc/bash/
+    sudo chmod +x ./index.sh
+    sudo ./index.sh
     ```
     Using your keyboard, accept all prompts.
  ___
