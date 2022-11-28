@@ -1,6 +1,6 @@
 Most of these thoughts are not my own but rather a collection from others who have a greater depth of knowledge of this subject. This is simply a short and OVERLY incomplete recap through the eyes of an [atypical] engineer.
 
-I've come to learn a main concern in our economic structure resides in the ineffectiveness of its wealth distribution. Spoils of wealth generation are vastly concentrated in the hands of a few while everyone else stacks up at zero. Is this good? Is this bad? What do we do about this? I'd like to address a few ideas I consider to be general misconceptions regarding this distribution inefficiency. I hope to lay out some of my confusion regarding the matter. If I am illogical in any way, please inform me by [submitting an issue](https://github.com/ddaaggeett/ddaaggeett/issues/new/choose).
+I've come to learn a main concern in our economic structure resides in the ineffectiveness of its wealth distribution. Spoils of wealth generation are vastly concentrated in the hands of a few while everyone else stacks up at zero. Is this good? Is this bad? What do we do about this? I'd like to address a few ideas I consider to be general misconceptions regarding this distribution inefficiency. I hope to lay out some of my confusion regarding the matter. If I am illogical in any way, please inform me by [submitting an issue](https://github.com/ddaaggeett/ddaaggeett/issues/new/choose). Consider the additional topics without commentary further below.
 
 My intention is not to claim a higher interest in capitalism or socialism, and certainly not to be political. In fact, after considering these thoughts, you may realize I may be more socialist than those who despise capitalism and more capitalist than those who despise socialism.
 ___
@@ -12,7 +12,7 @@ ___
 
 Income:
 
-The effectiveness of methods by which salaries within project structures are quantified are debatable. Wealth differentials between few executives and many workers tend to be high and result in vast differences in access to opportunity. I see the meaning of a salary for a role carried in a project is to ensure longevity of participation of a worker in the project. Worker overturn is not beneficial for project efficiency considering investment in training and cohesiveness of morale. It is also burdensome for workers to endure uncertainty in financial stability and further livelihood shock.
+The methods by which salaries within project structures are quantified are debatable. Wealth differentials between few executives and many workers tend to be high and result in vast differences in access to opportunity. I see the meaning of a salary for a role carried in a project is to ensure longevity of participation of a worker in the project. Worker overturn is not beneficial for project efficiency considering investment in training and cohesiveness of morale. It is also burdensome for workers to endure uncertainty in financial stability and further livelihood shock.
 
 A salary can be considered too low if, of course, basic needs of living are not met, but also if access to spending opportunities are diminished. Diminished opportunities, though indeterminate, can have drastic effects on workers' home lives and relative cultures. I would argue diminished opportunities for workers also have an effect on the performance of the project from which a salary is earned. Project performance is dependent on worker performance which is significantly influenced by salary waged. A general principle here is to consider a single salary is to be sufficient for the livelihood of a worker, just as a single worker per project role is sufficient for a project to depend. Dependency on multiple salaries is moot if we're discussing effectiveness of worker to project relations. Multiple salaried projects per worker can only diminish worker performance if we're quantifying performance ability relative to time available to perform.
 
@@ -23,10 +23,13 @@ ___
 
 Project ownership:
 
-My greatest confusion with the general animosity toward billionaires regards source of valuation. Of course, when billionaires are mentioned, typically they're the ones whose net valuation of a project ownership is valued in the billion dollar range. This has nothing to do with income, in fact, billionaires do not have access to this wealth beyond controlling where the valuation is allocated within the valued project. There is an obvious caveat, being corruption of executives finding nefarious ways of pocketing project funds, but for the purpose of this idea, bad actors are a secondary issue. Add: Issues of billionaires leading companies with negative externalities, outsourcing labor, cost-cutting measures, etc.
+My greatest confusion with the general animosity toward billionaires regards source of valuation. Typically they're those whose net valuation of a project ownership is valued in the billion dollar range. This has nothing to do with income, in fact, billionaires do not have access to this wealth beyond controlling where the valuation is allocated within the valued project. There is an obvious caveat: corruption among executives finding nefarious ways of pocketing project funds. But for the purpose of this idea, bad actors are a secondary issue. Add: Issues of billionaires leading companies with negative externalities, outsourcing labor, cost-cutting measures, etc.
 
 Without much explanation yet:
 I have more of a problem with the CEO of a company making millions in salary than I do with the wealth of a billionaire of which is typically regulated by voluntary public allocation. When I hear someone saying Elon Musk can do without much of his wealth, what I really hear is, "the public shouldn't be trusted to fund (value) this person's projects".
+
+Additional topics:
+- Legitimacy of worker co-ops
 ___
 
 Please consider [my other thoughts](./README.md).
