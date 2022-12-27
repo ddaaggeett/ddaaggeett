@@ -30,6 +30,14 @@ I have more of a problem with the CEO of a company making millions in salary tha
 
 Additional topics:
 - Legitimacy of worker co-ops
+- Everyone takes risk. Idea that only the capitalist leaders take risks is debatable.
+- How to optimally decide who gets funding vs who pays the highest interest rate/bidding for payment
+___
+
+Good-faith actors:
+
+- Thomas Sowell
+- Richard Wolff
 ___
 
 Please consider [my other thoughts](./README.md).
