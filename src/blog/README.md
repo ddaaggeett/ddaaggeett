@@ -5,3 +5,4 @@ Forgive my writing fluency:
 - [a case for imperial units](./imperial_units.md)
 - my thoughts on [wealth distribution](./wealth_dist.md)
 - copy my [desktop PC configuration](../pc/index.md)
+- [influential thinking](./conv.md) in the new age of humanities
