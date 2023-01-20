@@ -7,7 +7,7 @@ Press/Hold <kbd>![Windows Key][newwinlogo]</kbd> **+ number** to open the docked
 <kbd>![Windows Key][newwinlogo]</kbd> + 1 -> terminal  
 <kbd>![Windows Key][newwinlogo]</kbd> + 2 -> files  
 <kbd>![Windows Key][newwinlogo]</kbd> + 3 -> brave browser  
-<kbd>![Windows Key][newwinlogo]</kbd> + 4 -> atom.io
+<kbd>![Windows Key][newwinlogo]</kbd> + 4 -> visual studio code
 <kbd>![Windows Key][newwinlogo]</kbd> + 5 -> obs studio
 ___
 

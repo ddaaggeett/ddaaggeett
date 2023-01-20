@@ -30,10 +30,15 @@ sudo ln -sf /usr/bin/python3 /usr/bin/python
 sudo ln -sf /usr/bin/pip3 /usr/bin/pip
 pip install opencv-contrib-python
 
-# install atom.io
-wget -O atom.deb https://atom.io/download/deb
-sudo dpkg -i atom.deb
-rm -rf atom.deb
+# install visual studio code editor
+sudo apt-get install wget gpg
+wget -qO- https://packages.microsoft.com/keys/microsoft.asc | gpg --dearmor > packages.microsoft.gpg
+sudo install -D -o root -g root -m 644 packages.microsoft.gpg /etc/apt/keyrings/packages.microsoft.gpg
+sudo sh -c 'echo "deb [arch=amd64,arm64,armhf signed-by=/etc/apt/keyrings/packages.microsoft.gpg] https://packages.microsoft.com/repos/code stable main" > /etc/apt/sources.list.d/vscode.list'
+rm -f packages.microsoft.gpg
+sudo apt install apt-transport-https
+sudo apt update
+sudo apt install code # or code-insiders
 
 # install OBS studio
 sudo add-apt-repository ppa:obsproject/obs-studio
