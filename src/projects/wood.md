@@ -4,4 +4,4 @@ first projects riddled with error:
 
 - [pantry](https://youtu.be/Q1i542LIVKw)
 - [step face](https://youtu.be/RsaCBfMJgXk)
-- [garage high shelf](https://youtu.be/fcuf-fkyHDk)
+- [garage high shelf](https://youtu.be/qjq9WwfTSFw)
