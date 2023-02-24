@@ -8,6 +8,7 @@ Rick Rubin
 [The Handyman](https://www.youtube.com/@TheHandyman1)
 [Shane Wighton](https://www.youtube.com/channel/UCj1VqrHhDte54oLgPG4xpuQ)
 Matt Taibbi
+Aaron Maté
 Thomas Sowell
 Richard Wolff
 Dave Ramsay
