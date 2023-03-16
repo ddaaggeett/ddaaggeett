@@ -1,4 +1,4 @@
 food:
 
-[lentil soup](https://youtu.be/meevYye5whM)  
-[bell pepper cream pasta](https://youtu.be/fE-EVsBondI)  
+[lentil soup](https://youtu.be/EfpC1Sz8mVs)  
+[bell pepper chicken alfredo](https://youtu.be/9nYMUPVlKOY)  

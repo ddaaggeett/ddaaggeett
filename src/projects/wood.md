@@ -4,5 +4,5 @@ first few projects riddled with error:
 
 - [pantry](https://youtu.be/Q1i542LIVKw)
 - [step face](https://youtu.be/RsaCBfMJgXk)
-- [garage high shelf](https://youtu.be/iuM2ZXam0-k)
-- [end-grain cutting boards](https://youtu.be/q-NfjpjuAw8)
+- [garage high shelf](https://youtu.be/H1XN8QvQueE)
+- [end-grain cutting boards](https://youtu.be/5I9Tuao-18I)
