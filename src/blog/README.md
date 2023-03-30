@@ -1,6 +1,6 @@
 Forgive my writing fluency:
 
-- [influential music](./music.md)
+- influential [music](./music.md) + [movies](./movies.md)
 - [government handled by version control](./govt_version_control.md)
 - [a case for imperial units](./imperial_units.md)
 - my thoughts on [wealth distribution](./wealth_dist.md)

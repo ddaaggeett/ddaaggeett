@@ -1,4 +1,4 @@
-Talking points that made me think (incomplete):
+A small fraction of discussions that made me think (incomplete):
 
 - [The great search for something cheaper than labor - Eric Weinstein](https://www.youtube.com/watch?v=orBMIQ3YBoY)
 - [Invalidating the Educational Complex /// Eric Weinstein](https://www.youtube.com/watch?v=inM3N-yOFa0)
@@ -166,3 +166,5 @@ Talking points that made me think (incomplete):
 - [Stand up to the woke people in your life /// Calvin Robinson](https://www.youtube.com/watch?v=dMr2AJ5sdkg)
 - [New gatekeepers /// Eric Weinstein](https://www.youtube.com/watch?v=bako2akhVfA)
 - [To align fiduciary with moral responsibility /// Bret Weinstein + Heather Heying](https://www.youtube.com/watch?v=xBsOtvGHUvk)
+- [Unplanned childlessness](https://youtu.be/Qrg8t34yXRs)
+- [Future of AI - Sam Altman](https://www.youtube.com/watch?v=L_Guz73e6fw&t=4185s)
