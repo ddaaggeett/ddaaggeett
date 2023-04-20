@@ -2,7 +2,8 @@
 
 first few projects riddled with error:
 
+- [miter cabinets](https://youtu.be/Mo7APlYRXzc)
+- [garage high shelf](https://youtu.be/n-lBcAZYKiI)
 - [pantry](https://youtu.be/Q1i542LIVKw)
-- [step face](https://youtu.be/RsaCBfMJgXk)
-- [garage high shelf](https://youtu.be/H1XN8QvQueE)
-- [end-grain cutting boards](https://youtu.be/5I9Tuao-18I)
+- [step shoe face](https://youtu.be/RsaCBfMJgXk)
+- [end-grain cutting boards](https://youtu.be/m5cJH8Kwa8U)
