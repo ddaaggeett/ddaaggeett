@@ -168,3 +168,4 @@ A small fraction of discussions that made me think (incomplete):
 - [To align fiduciary with moral responsibility /// Bret Weinstein + Heather Heying](https://www.youtube.com/watch?v=xBsOtvGHUvk)
 - [Unplanned childlessness](https://youtu.be/Qrg8t34yXRs)
 - [Future of AI - Sam Altman](https://www.youtube.com/watch?v=L_Guz73e6fw&t=4185s)
+- [Historic Win for Free Speech: Judge Blocks Biden Admin from Censoring Dissent on Social Media](https://www.youtube.com/watch?v=wQHTWQVMMD0)
