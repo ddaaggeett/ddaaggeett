@@ -28,14 +28,13 @@ const searchFor = (sdIndex, file) => {
     return new Promise((resolve, reject) => {
         fs.readdir(searchDirs[sdIndex], (err, sdFiles) => {
             if (!sdFiles.includes(file)) {
-                if (sdIndex == searchDirs.length - 1) {
+                if (sdIndex === searchDirs.length - 1) {
                     console.log(`${file} NOT found in any search dir`)
                     // printing here covers what i need. but see TODO
                     resolve(file)
-
                 }
                 else {
-                    searchFor(sdIndex + 1, file)
+                    searchFor(sdIndex + 1, file).then(resolve)
                 }
             }
             else resolve(null)
@@ -46,21 +45,20 @@ const searchFor = (sdIndex, file) => {
 const getFilesNotFound = (fFiles) => {
     let notFound = []
     return new Promise((resolve, reject) => {
-        fFiles.forEach((file, i) => {
-            searchFor(0, file).then(nextNotFound => {
-                if (nextNotFound) notFound = [...notFound, nextNotFound]
-            })
-            if (i == fFiles.length -1) resolve(notFound)
+        const promises = fFiles.map((file) => searchFor(0, file))
+        Promise.all(promises).then((results) => {
+            notFound = results.filter((result) => result !== null)
+            resolve(notFound)
         })
     })
 }
 
 fs.readdir(fromDir, (err, files) => {
-    if (err) console.log(err);
+    if (err) console.log(err)
     else {
         getFilesNotFound(files).then((notFound) => {
             console.log(`filesNotFound () = ${notFound}`)
-            // TODO: trouble recieving the resolved variable
+            // TODO: trouble receiving the resolved variable
         })
     }
 })
