@@ -11,9 +11,20 @@ def is_audio_file(filename):
     _, ext = os.path.splitext(filename)
     return ext.lower() in AUDIO_EXTENSIONS
 
+def extract_quotes_content(s):
+    quotes = ['"', "'"]
+    for quote in quotes:
+        if quote in s:
+            # Extract the content from the inner quotes
+            start_quote_index = s.index(quote)
+            end_quote_index = s.index(quote, start_quote_index + 1)
+            content = s[start_quote_index + 1 : end_quote_index]
+            return content
+    return None
+
 def extract_artist_and_song(filename):
     # Try different separators to extract artist and song
-    separators = [' - ', ' / ', ' \ ', ' | ', ' – ', ' ~ ']
+    separators = [' - ', ' / ', ' \ ', ' | ', ' – ', ' ~ ', ' _ ']
 
     for sep in separators:
         if sep in filename:
@@ -23,7 +34,14 @@ def extract_artist_and_song(filename):
             song = song_with_extension.strip()
             return artist, song
 
-    # If no separators are found, return None for both artist and song
+    # If no separators are found, extract content from quotes as the song name
+    song = extract_quotes_content(filename)
+    if song:
+        artist = filename.replace(f'"{song}"', '').replace(f"'{song}'", '').strip(' -/\\|–~_')
+        print(f"Guessed Song: {song}")
+        return artist, song
+
+    # If no separators or quotes are found, return None for both artist and song
     return None, None
 
 def rename_tracks(directory):
@@ -38,7 +56,9 @@ def rename_tracks(directory):
         artist, song = extract_artist_and_song(file)
 
         if song:
-            # Rename the file with the desired format: "song title ||| artist name"
+            # Remove extra spaces between words and rename the file with the desired format: "song title ||| artist name"
+            song = ' '.join(song.split())
+            artist = ' '.join(artist.split())
             new_name = f"{song} ||| {artist}"
             new_file_path = os.path.join(directory, new_name)
 
