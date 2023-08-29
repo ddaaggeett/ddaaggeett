@@ -1,3 +1,5 @@
+<link href="dark_theme.css" rel="stylesheet"></link>
+
 ### I've left a few rabbit holes, if you'd like.
 
 - my [current projects](./src/projects/README.md)
