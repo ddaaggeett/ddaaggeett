@@ -1,4 +1,4 @@
-<link href="dark_theme.css" rel="stylesheet"></link>
+<link href="dark_theme.css" rel="stylesheet" />
 
 ### I've left a few rabbit holes, if you'd like.
 
