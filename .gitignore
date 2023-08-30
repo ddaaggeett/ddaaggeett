@@ -2,6 +2,7 @@
 *.mp3
 *.jpg
 *.png
+!*profile.png
 *.exe
 *.m4a
 *.pdf
