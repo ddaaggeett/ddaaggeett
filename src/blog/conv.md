@@ -1,3 +1,5 @@
+<link href="../css/dark_theme.css" rel="stylesheet" />
+
 A small fraction of discussions that made me think (incomplete):
 
 - [The great search for something cheaper than labor - Eric Weinstein](https://www.youtube.com/watch?v=orBMIQ3YBoY)

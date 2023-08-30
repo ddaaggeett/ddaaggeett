@@ -1,3 +1,5 @@
+<link href="../css/dark_theme.css" rel="stylesheet" />
+
 music collection:
 
 - [Sauna](https://youtu.be/9qoXa5_w3Gw) - Vulfpeck: Jack Stratton, Woody Goss

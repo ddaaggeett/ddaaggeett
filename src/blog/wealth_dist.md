@@ -1,3 +1,5 @@
+<link href="../css/dark_theme.css" rel="stylesheet" />
+
 Most of these thoughts are not my own but rather a collection from others who have a greater depth of knowledge of this subject. This is simply a short and OVERLY incomplete recap through the eyes of an engineer.
 
 I've come to learn a main concern in our economic structure resides in the ineffectiveness of its wealth distribution. Spoils of wealth generation are vastly concentrated in the hands of a few while everyone else stacks up at zero. Is this good? Is this bad? What do we do about this? I'd like to address a few ideas I consider to be general misconceptions regarding this distribution inefficiency. I hope to lay out some of my confusion regarding the matter. If I am illogical in any way, please inform me by [submitting an issue](https://github.com/ddaaggeett/ddaaggeett/issues/new/choose). Consider the additional topics without commentary further below.

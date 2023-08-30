@@ -1,3 +1,5 @@
+<link href="../css/dark_theme.css" rel="stylesheet" />
+
 ### Gated Institutional Narrative
 
 Reference: [https://theportal.wiki/wiki/Gated_Institutional_Narrative_(GIN)](https://theportal.wiki/wiki/Gated_Institutional_Narrative_(GIN))

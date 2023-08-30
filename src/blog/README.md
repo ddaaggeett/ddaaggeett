@@ -1,3 +1,5 @@
+<link href="../css/dark_theme.css" rel="stylesheet" />
+
 Forgive my writing fluency. Here are some interests and incomplete thoughts:
 
 - influential [music](./music.md) + [movies](./movies.md)

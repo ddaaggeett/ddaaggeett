@@ -1,3 +1,5 @@
+<link href="../css/dark_theme.css" rel="stylesheet" />
+
 ### Governmental Specification Structure
 
 This is an unoriginal thought. Reference [https://www.datacoalition.org/version-control-for-law-tracking-changes-in-the-u-s-congress/](https://www.datacoalition.org/version-control-for-law-tracking-changes-in-the-u-s-congress/)

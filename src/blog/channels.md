@@ -1,3 +1,5 @@
+<link href="../css/dark_theme.css" rel="stylesheet" />
+
 Jack Stratton - true genius and epitome of production artistry  
 Theo Katzman - pure musicianship  
 [Louis Rossmann](https://www.youtube.com/@rossmanngroup) - right to repair representative  
