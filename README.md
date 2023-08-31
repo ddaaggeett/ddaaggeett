@@ -1,5 +1,5 @@
-<link type=“text/css” href="./src/css/dark_theme.css" rel="stylesheet" />
-<link type=“text/css” href="./src/css/profile.css" rel="stylesheet" />
+<link type=“text/css” href="src/css/dark_theme.css" rel="stylesheet" />
+<link type=“text/css” href="src/css/profile.css" rel="stylesheet" />
 
 <div class="content">
 
