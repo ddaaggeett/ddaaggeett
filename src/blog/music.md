@@ -1,4 +1,4 @@
-<link href="../css/dark_theme.css" rel="stylesheet" />
+<link type=“text/css” href="../css/dark_theme.css" rel="stylesheet" />
 
 music collection:
 
