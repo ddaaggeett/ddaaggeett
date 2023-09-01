@@ -7,6 +7,8 @@
 *.m4a
 *.pdf
 archive.*
+Gemfile*
+_site
 
 # dependencies
 node_modules
