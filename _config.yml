@@ -1,7 +1,7 @@
 title: ddaaggeett
 description: Personal website
 url: http://ddaaggeett.xyz
-baseurl: ""
+baseurl: "/"
 markdown: GFM
 # permalink: /
 # open_url: true
