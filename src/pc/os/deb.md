@@ -1,3 +1,5 @@
+<link href="../css/dark_theme.css" rel="stylesheet" />
+
 Here is a personal PC configuration you can copy. This is [Debian](https://www.debian.org/). I use it primarily for development. [Ubuntu](https://ubuntu.com/tutorials/install-ubuntu-desktop#1-overview) also does the trick which tends to be better for new Linux users. I recommend [booting these with a virtual machine](https://ubuntu.com/tutorials/how-to-run-ubuntu-desktop-on-a-virtual-machine-using-virtualbox#1-overview) to test it out in your current PC before considering a full install.
 
 **YES**, this configuration will provide the regular everyday, no-skill PC user experience. The idea Linux is not user-friendly or non-dummy-proof is entirely false. So, welcome.

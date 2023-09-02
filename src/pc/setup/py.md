@@ -1,3 +1,5 @@
+<link href="../css/dark_theme.css" rel="stylesheet" />
+
 **execute `python` as `python3`**:
 
     sudo ln -sf /usr/bin/python3 /usr/bin/python

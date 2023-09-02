@@ -1,4 +1,4 @@
-<link type=“text/css” href="../css/dark_theme.css" rel="stylesheet" />
+<link href="../css/dark_theme.css" rel="stylesheet" />
 
 A small fraction of discussions that made me think (incomplete):
 

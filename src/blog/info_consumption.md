@@ -1,4 +1,4 @@
-<link type=“text/css” href="../css/dark_theme.css" rel="stylesheet" />
+<link href="../css/dark_theme.css" rel="stylesheet" />
 
 Here's something odd. The only few books I intently read and gained a true understanding without distraction from context were fundamentals of structural analysis topics while studying engineering in school. Not your typical pieces of literature, and to most, not of interest. I believe this format for this particlar information was best in text and image format due to its diagrammatic representation of knowledge and reason. Realizing this, I knew general text in non diagram/visual format was left lacking in utility, at least for me.
 

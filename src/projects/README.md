@@ -1,4 +1,4 @@
-<link type=“text/css” href="css/dark_theme.css" rel="stylesheet" />
+<link href="../css/dark_theme.css" rel="stylesheet" />
 
 ### [home](./home.md)  
 ### [shop](./wood.md)  

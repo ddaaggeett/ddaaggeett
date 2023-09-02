@@ -1,3 +1,5 @@
+<link href="../css/dark_theme.css" rel="stylesheet" />
+
 The following terminal commands should be ready to run if you've run the `configuration script` explained [here](./index.md)
 
 - `gl`: print any current git repository information

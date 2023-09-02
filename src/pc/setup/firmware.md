@@ -1,3 +1,5 @@
+<link href="../css/dark_theme.css" rel="stylesheet" />
+
 Required firmware install for Debian 11
 
 My first error prompting this action was installing Debian on a laptop without a hard-wired internet connection. Solution was to install some firmware:

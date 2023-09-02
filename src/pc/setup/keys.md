@@ -1,3 +1,5 @@
+<link href="../css/dark_theme.css" rel="stylesheet" />
+
 [newwinlogo]: http://i.stack.imgur.com/B8Zit.png
 
 **windows key <kbd>![Windows Key][newwinlogo]</kbd> shortcuts**:  

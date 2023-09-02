@@ -1,4 +1,4 @@
-<link type=“text/css” href="../css/dark_theme.css" rel="stylesheet" />
+<link href="../css/dark_theme.css" rel="stylesheet" />
 
 Jack Stratton - true genius and epitome of production artistry  
 Theo Katzman - pure musicianship  

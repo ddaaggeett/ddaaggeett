@@ -1,3 +1,5 @@
+<link href="../css/dark_theme.css" rel="stylesheet" />
+
 - [brave browser](https://brave.com/linux/#debian-ubuntu-mint)
 - [git](https://git-scm.com/download/linux)
 - [visual studio code](https://code.visualstudio.com/)
