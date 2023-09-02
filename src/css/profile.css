@@ -1,19 +1,17 @@
 .content {
-    margin: 20px;
-    /* display: flex;
-    align-items: center; */
+    text-align: center;
 }
-.left {
-    width: 20%;
-    float: left;
-}
-.right {
-    width: 80%;
-    float: right;
+
+.list {
+    display: inline-block;
+    text-align: left;
 }
 
 .picture {
-    padding-top: 20px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 50%;
     width: 100px;
     height: 100px;
 }

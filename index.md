@@ -7,9 +7,9 @@
 <img src="./src/images/profile.png" alt="profile picture" class="picture">
 </div>
 
-<div class="right">
-
 ### I've left a few rabbit holes, if you'd like.
+
+<div class="list">
 
 - my [current projects](./src/projects/README.md)
 - an incomplete and opinionated [liberal education](https://www.youtube.com/playlist?list=PLKO9AFm3pJHa2gLFKHnCH4dUcnUWjeI71)
