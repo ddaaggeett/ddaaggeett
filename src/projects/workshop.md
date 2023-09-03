@@ -2,45 +2,49 @@
 <link href="../css/video.css" rel="stylesheet" />
 <link href="../css/shop.css" rel="stylesheet" />
 
-### My Workshop's [3D Layout](https://app.sketchup.com/share/tc/northAmerica/6GsdB_iKSoA?stoken=BBbzqSc0MjH8vjHNlO9wkNHXwYJSWKRErdTDyxgA2MAc33DqTr7X9ujJxzeeO0Ng&source=web)
+### My Workshop's Current [3D Layout](https://app.sketchup.com/share/tc/northAmerica/6GsdB_iKSoA?stoken=BBbzqSc0MjH8vjHNlO9wkNHXwYJSWKRErdTDyxgA2MAc33DqTr7X9ujJxzeeO0Ng&source=web)
 
 <div class="projects">
 
-### My Home Projects
+### My Home Project Videos
 </div>
 
 #### Miter Station Cabinets
 
-<div class="video_container">
-
-<iframe class="video" src="https://www.youtube.com/embed/Mo7APlYRXzc" title="miter station cabinets PART 1 /// ddaaggeett" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<div class="video_container" >
+<a href="https://www.youtube.com/watch?v=Mo7APlYRXzc" target="_blank">
+<img class="video" src="https://img.youtube.com/vi/Mo7APlYRXzc/0.jpg")>
+</a>
 </div>
 
 #### High Garage Shelving
 
-<div class="video_container">
-
-<iframe class="video" src="https://www.youtube.com/embed/n-lBcAZYKiI" title="garage shelving /// ddaaggeett" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<div class="video_container" >
+<a href="https://www.youtube.com/watch?v=n-lBcAZYKiI" target="_blank">
+<img class="video" src="https://img.youtube.com/vi/n-lBcAZYKiI/0.jpg")>
+</a>
 </div>
 
 #### Kitchen Pantry
 
-<div class="video_container">
-
-<iframe class="video" src="https://www.youtube.com/embed/Q1i542LIVKw" title="pantry /// ddaaggeett" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<div class="video_container" >
+<a href="https://www.youtube.com/watch?v=Q1i542LIVKw" target="_blank">
+<img class="video" src="https://img.youtube.com/vi/Q1i542LIVKw/0.jpg")>
+</a>
 </div>
 
 #### Step Shoe Face
 
-<div class="video_container">
-
-<iframe class="video" src="https://www.youtube.com/embed/RsaCBfMJgXk" title="step face /// ddaaggeett" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<div class="video_container" >
+<a href="https://www.youtube.com/watch?v=RsaCBfMJgXk" target="_blank">
+<img class="video" src="https://img.youtube.com/vi/RsaCBfMJgXk/0.jpg")>
+</a>
 </div>
 
 #### Cutting Boards
 
-<div class="video_container">
-
-<iframe class="video" src="https://www.youtube.com/embed/m5cJH8Kwa8U" title="cherry end-grain cutting boards /// ddaaggeett" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<div class="video_container" >
+<a href="https://www.youtube.com/watch?v=m5cJH8Kwa8U" target="_blank">
+<img class="video" src="https://img.youtube.com/vi/m5cJH8Kwa8U/0.jpg")>
+</a>
 </div>
-
