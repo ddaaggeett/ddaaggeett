@@ -2,11 +2,6 @@
     text-align: center;
 }
 
-.list {
-    display: inline-block;
-    text-align: left;
-}
-
 .picture {
     display: block;
     margin-left: auto;

@@ -1,11 +1,18 @@
 <link href="../css/dark_theme.css" rel="stylesheet" />
+<link href="../css/profile.css" rel="stylesheet" />
 
-Forgive my writing fluency. Here are some interests and incomplete thoughts:
+Here are some interests and incomplete thoughts. Forgive my writing fluency.
+
+<div class="content">
+<div class="list">
 
 - influential [music](./music.md) + [movies](./movies.md)
 - knowledge learning [methods](./info_consumption.md)
-- [government handled by version control](./govt_version_control.md)
-- [a case for imperial units](./imperial_units.md)
-- my thoughts on [wealth distribution](./wealth_dist.md)
-- copy my [desktop PC configuration](../pc/index.md)
-- [a small collection](./conv.md) of thoughts in the humanities
+- [a thought](./govt_version_control.md) about government handled by version control
+- [a case](./imperial_units.md) for imperial units
+- [my thoughts](./wealth_dist.md) on wealth distribution
+- copy my desktop [PC configuration](../pc/index.md)
+- a small [collection of thoughts](./conv.md) in the humanities
+
+</div>
+</div>

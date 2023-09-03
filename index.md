@@ -11,7 +11,7 @@
 
 <div class="list">
 
-- my [current projects](./src/projects/README.md)
+- my [work](./src/projects/README.md)
 - an incomplete and opinionated [liberal education](https://www.youtube.com/playlist?list=PLKO9AFm3pJHa2gLFKHnCH4dUcnUWjeI71)
 - my [blog](./src/blog/README.md)
 

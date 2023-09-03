@@ -1,4 +1,4 @@
-<link href="../css/dark_theme.css" rel="stylesheet" />
+<link href="../../css/dark_theme.css" rel="stylesheet" />
 
 **execute `python` as `python3`**:
 

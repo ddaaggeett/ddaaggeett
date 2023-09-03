@@ -1,4 +1,4 @@
-<link href="../css/dark_theme.css" rel="stylesheet" />
+<link href="../../css/dark_theme.css" rel="stylesheet" />
 
 Required firmware install for Debian 11
 

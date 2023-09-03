@@ -1,11 +1,31 @@
 <link href="../css/dark_theme.css" rel="stylesheet" />
+<link href="../css/video.css" rel="stylesheet" />
+<link href="../css/shop.css" rel="stylesheet" />
 
-### [shop design plan](https://app.sketchup.com/share/tc/northAmerica/6GsdB_iKSoA?stoken=BBbzqSc0MjH8vjHNlO9wkNHXwYJSWKRErdTDyxgA2MAc33DqTr7X9ujJxzeeO0Ng&source=web)
+### My Workshop's [3D Layout](https://app.sketchup.com/share/tc/northAmerica/6GsdB_iKSoA?stoken=BBbzqSc0MjH8vjHNlO9wkNHXwYJSWKRErdTDyxgA2MAc33DqTr7X9ujJxzeeO0Ng&source=web)
 
-first few projects riddled with error:
+<div class="projects">
 
-- [miter cabinets](https://youtu.be/Mo7APlYRXzc)
-- [garage high shelf](https://youtu.be/n-lBcAZYKiI)
-- [pantry](https://youtu.be/Q1i542LIVKw)
-- [step shoe face](https://youtu.be/RsaCBfMJgXk)
-- [end-grain cutting boards](https://youtu.be/m5cJH8Kwa8U)
+### My Home Projects
+</div>
+
+#### Miter Station Cabinets
+
+<iframe class="video" src="https://www.youtube.com/embed/Mo7APlYRXzc" title="miter station cabinets PART 1 /// ddaaggeett" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+#### High Garage Shelving
+
+<iframe class="video" src="https://www.youtube.com/embed/n-lBcAZYKiI" title="garage shelving /// ddaaggeett" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+#### Kitchen Pantry
+
+<iframe class="video" src="https://www.youtube.com/embed/Q1i542LIVKw" title="pantry /// ddaaggeett" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+#### Step Shoe Face
+
+<iframe class="video" src="https://www.youtube.com/embed/RsaCBfMJgXk" title="step face /// ddaaggeett" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+#### Cutting Boards
+
+<iframe class="video" src="https://www.youtube.com/embed/m5cJH8Kwa8U" title="cherry end-grain cutting boards /// ddaaggeett" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+

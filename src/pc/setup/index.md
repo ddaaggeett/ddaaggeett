@@ -1,4 +1,4 @@
-<link href="../css/dark_theme.css" rel="stylesheet" />
+<link href="../../css/dark_theme.css" rel="stylesheet" />
 
 [newwinlogo]: http://i.stack.imgur.com/B8Zit.png
 1. Open terminal: Press/release <kbd>![Windows Key][newwinlogo]</kbd> and type `terminal`: select the application.

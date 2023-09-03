@@ -80,6 +80,11 @@ img {
 	max-width: 100%;
 }
 
+ul {
+	display: inline-block;
+    text-align: left;
+}
+
 li {
 	line-height: 1.5em;
 }
