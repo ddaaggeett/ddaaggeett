@@ -1,7 +1,7 @@
 <link href="../css/dark_theme.css" rel="stylesheet" />
 
 #### [home](./home.md)  
-#### [shop](./wood.md)  
+#### [shop](./workshop.md)  
 #### [xyz](https://github.com/ddaaggeett/xyz)  
 ___
 
