@@ -46,3 +46,7 @@
 <img class="video" src="https://img.youtube.com/vi/m5cJH8Kwa8U/0.jpg")>
 </a>
 </div>
+
+___
+
+[<span>&#8678;</span> go](./index.md)

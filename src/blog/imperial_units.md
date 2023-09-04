@@ -21,4 +21,4 @@ Unfortunately there isn't a way to replicate my thoughts as I map a measurement 
 This probably wouldn't fall under best practices, but it turns out to be consistent and reliable ... for me.
 ___
 
-Please consider [my other thoughts](./README.md).
+Please consider [my other thoughts](./index.md).

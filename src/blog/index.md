@@ -11,7 +11,11 @@ Here are some interests and incomplete thoughts. Forgive my writing fluency.
 - [a thought](./govt_version_control.md) about government handled by version control
 - [a case](./imperial_units.md) for imperial units
 - [my thoughts](./wealth_dist.md) on wealth distribution
-- copy my desktop [PC configuration](../pc/index.md)
+- copy my preferred desktop [PC configuration](../pc/index.md)
 - a small [collection of thoughts](./conv.md) in the humanities
 
 </div>
+
+___
+
+[<span>&#8678;</span> go](./index.md)

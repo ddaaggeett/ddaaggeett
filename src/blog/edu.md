@@ -11,4 +11,4 @@ Reading
 Writing
 ___
 
-Please consider [my other thoughts](./README.md).
+Please consider [my other thoughts](./index.md).

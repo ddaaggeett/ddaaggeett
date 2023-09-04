@@ -2,10 +2,16 @@
 
 <div class="center">
 
+### My work <span>&#8680;</span> [an introduction](../blog/work.md)
+</div>
+
+<div class="center">
+
 - [home](./home.md)
 - [shop](./workshop.md)
 - [xyz](https://github.com/ddaaggeett/xyz)
 </div>
+
 ___
 
-back to [previous page](../../README.md)
+[<span>&#8678;</span> go](../../index.md)

@@ -17,4 +17,4 @@ music collection:
 - [Eraser](https://youtu.be/pb2fwx4O_Ks) - Ed Sheeran
 ___
 
-back to [my blog](./README.md)
+back to [my blog](./index.md)

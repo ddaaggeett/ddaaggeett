@@ -13,4 +13,4 @@ Over the last decade after college I've discovered thousands of freely available
 It's easier to notice misleading information in the audio/visual format than it is in written text. I don't think anyone could argue that it's easier to know when someone's full of crap behind the veil of abstract text versus in person. I don't think many people would disagree. I think this is one of the reasons why mainstream media is able to hold the reigns of general narratives. Truth tends to be held by those who seemingly are better adapted to appear equipped to interpret discussions in context. It's as if knowledge is only legitimate if it's in text format and if you're the first to read it, no matter the interpretation. I see this as convenient sidestepping of institutional gatekeepers to keep power, or worse, to unknowingly be used by third party interests to force narratives for general power against the interest of the individual citizen.
 ___
 
-Please consider [my other thoughts](./README.md).
+Please consider [my other thoughts](./index.md).
