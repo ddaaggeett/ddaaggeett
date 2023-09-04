@@ -11,7 +11,7 @@ body {
 	line-height: 1.75em;
 	font-size: 16px;
 	background-color: #222;
-	color: #aaa;
+	color: #fff;
 }
 
 .simple-container {
@@ -103,3 +103,34 @@ aside,
 		font-size: 18px;
 	}
 }
+
+.center {
+    text-align: center;
+	margin-bottom: 20px;
+}
+
+.picture {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+}
+
+.video_container {
+    position: relative;
+    padding-bottom: 56.25%;
+    height: 0;
+    overflow: hidden;
+    max-width: 100%;
+}
+
+.video {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+

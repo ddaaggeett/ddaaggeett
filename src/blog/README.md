@@ -1,10 +1,10 @@
-<link href="../css/dark_theme.css" rel="stylesheet" />
-<link href="../css/profile.css" rel="stylesheet" />
+<link href="../css/styles.css" rel="stylesheet" />
 
+<div class="center">
 Here are some interests and incomplete thoughts. Forgive my writing fluency.
+</div>
 
-<div class="content">
-<div class="list">
+<div class="center">
 
 - influential [music](./music.md) + [movies](./movies.md)
 - knowledge learning [methods](./info_consumption.md)
@@ -14,5 +14,4 @@ Here are some interests and incomplete thoughts. Forgive my writing fluency.
 - copy my desktop [PC configuration](../pc/index.md)
 - a small [collection of thoughts](./conv.md) in the humanities
 
-</div>
 </div>

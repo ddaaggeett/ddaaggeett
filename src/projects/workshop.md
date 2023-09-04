@@ -1,10 +1,8 @@
-<link href="../css/dark_theme.css" rel="stylesheet" />
-<link href="../css/video.css" rel="stylesheet" />
-<link href="../css/shop.css" rel="stylesheet" />
+<link href="../css/styles.css" rel="stylesheet" />
 
 ### My Workshop's Current [3D Layout](https://app.sketchup.com/share/tc/northAmerica/6GsdB_iKSoA?stoken=BBbzqSc0MjH8vjHNlO9wkNHXwYJSWKRErdTDyxgA2MAc33DqTr7X9ujJxzeeO0Ng&source=web)
 
-<div class="projects">
+<div class="center">
 
 ### My Home Project Videos
 </div>

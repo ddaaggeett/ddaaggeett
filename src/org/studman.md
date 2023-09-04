@@ -1,4 +1,4 @@
-<link href="../css/dark_theme.css" rel="stylesheet" />
+<link href="../css/styles.css" rel="stylesheet" />
 
 [![studman.xyz](https://img.youtube.com/vi/YknzU80OcVg/0.jpg)](https://www.youtube.com/watch?v=YknzU80OcVg)
 

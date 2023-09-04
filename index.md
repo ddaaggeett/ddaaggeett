@@ -1,7 +1,6 @@
-<link href="./src/css/dark_theme.css" rel="stylesheet" />
-<link href="./src/css/profile.css" rel="stylesheet" />
+<link href="./src/css/styles.css" rel="stylesheet" />
 
-<div class="content">
+<div class="center">
 
 <div class="left">
 <img src="./src/images/profile.png" alt="profile picture" class="picture">

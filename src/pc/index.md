@@ -1,4 +1,4 @@
-<link href="../css/dark_theme.css" rel="stylesheet" />
+<link href="../css/styles.css" rel="stylesheet" />
 
 I've' used all 3 standard operating systems: Windows, MacOS, and Linux. They're all good. My preference is Linux.
 

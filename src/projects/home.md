@@ -1,8 +1,6 @@
-<link href="../css/dark_theme.css" rel="stylesheet" />
-<link href="../css/video.css" rel="stylesheet" />
-<link href="../css/shop.css" rel="stylesheet" />
+<link href="../css/styles.css" rel="stylesheet" />
 
-<div class="projects">
+<div class="center">
 
 ### My Cooking Videos
 </div>

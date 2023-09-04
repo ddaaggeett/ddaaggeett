@@ -1,4 +1,4 @@
-<link href="../css/dark_theme.css" rel="stylesheet" />
+<link href="../css/styles.css" rel="stylesheet" />
 
 ## A case for the imperial `1/16"` instead of the metric `mm`
 
