@@ -7,9 +7,9 @@
 
 <div class="center">
 
-- [home](./home.md)
-- [shop](./workshop.md)
-- [xyz](https://github.com/ddaaggeett/xyz)
+- ### [home](./home.md)
+- ### [shop](./workshop.md)
+- ### [xyz](https://github.com/ddaaggeett/xyz)
 </div>
 
 ___

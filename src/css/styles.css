@@ -55,8 +55,6 @@ h2 {
 h3 {
 	font-size: 16px;
 	line-height: 27px;
-	padding-top: 15px;
-	padding-bottom: 15px;
 	border: none;
 }
 
@@ -134,3 +132,11 @@ aside,
     height: 100%;
 }
 
+.code * {
+	border: gray solid 1px;
+	color: orange;
+}
+
+.code body {
+	background-color: #444;
+}

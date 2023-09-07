@@ -1,7 +1,8 @@
 <link href="../css/styles.css" rel="stylesheet" />
 
 <div class="center">
-Here are some interests and incomplete thoughts. Forgive my writing fluency.
+
+### Here are some interests and incomplete thoughts. Forgive my writing fluency.
 </div>
 
 <div class="center">

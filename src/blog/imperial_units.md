@@ -6,8 +6,8 @@ I'm a big fan of the base-10 metric system. The decimal system is clearly the mo
 
 But in practice I find when it comes to using a tape measure (with imperial units), there are countless instances where I have to rely on estimating a length finer than the 1/16th inch increment.
 
-	"Why not use a tape measure with finer increments? Shouldn't 1/32" or 1/64" tick marks do the trick?"
-	"Isn't this why you should use metric? Millimeters would make it easier to get a closer reading of your length."
+- "Why not use a tape measure with finer increments? Shouldn't 1/32" or 1/64" tick marks do the trick?"
+- "Isn't this why you should use metric? Millimeters would make it easier to get a closer reading of your length."
 
 Though these concerns are valid, I would contend using the unverified skill of "eyeballing" a measurement is more reliable than using pre-determined tick marks, and this method works better within the larger spacing of the 1/16" ticks than 1mm ticks.
 
