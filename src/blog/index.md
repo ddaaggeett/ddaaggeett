@@ -18,4 +18,4 @@ Here are some interests and incomplete thoughts. Forgive my writing fluency.
 
 ___
 
-[<span>&#8678;</span> go](./index.md)
+[<span>&#8678;</span> go](../../index.md)
