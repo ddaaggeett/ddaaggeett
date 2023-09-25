@@ -8,14 +8,16 @@
     1. `su -` then enter password
     2. `visudo`
     3. add line `<your_user_name> ALL=(ALL:ALL) ALL` below `# User privilege specification`, where `<your_user_name>` = `ddaaggeett` (for me) :
-        <span class="code">
+
+        <code class="code">
         
-        ```
-        # User privilege specification
-        root    ALL=(ALL:ALL) ALL
-        ddaaggeett ALL=(ALL:ALL) ALL
-        ```
-        </span>
+        
+# User privilege specification
+root    ALL=(ALL:ALL) ALL
+ddaaggeett ALL=(ALL:ALL) ALL
+        
+        </code>
+
     4. `ctrl + O` - then enter
     5. `ctrl + X`
 
