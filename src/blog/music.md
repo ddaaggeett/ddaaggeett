@@ -1,6 +1,6 @@
 <link href="../css/styles.css" rel="stylesheet" />
 
-music collection:
+These are not just great performances. A select few:
 
 - [Sauna](https://youtu.be/9qoXa5_w3Gw) - Vulfpeck: Jack Stratton, Woody Goss
 - [Disco Ulysses](https://www.youtube.com/watch?v=F7nCDrf90V8) - Vulfpeck: Jack Stratton
