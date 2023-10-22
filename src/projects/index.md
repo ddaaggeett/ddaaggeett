@@ -9,7 +9,7 @@
 
 - ### [home](./home.md)
 - ### [shop](./workshop.md)
-- ### [xyz](https://github.com/ddaaggeett/xyz)
+- ### [git](https://github.com/ddaaggeett)
 </div>
 
 ___
