@@ -1,10 +1,8 @@
 <link href="../css/styles.css" rel="stylesheet" />
 
-I've' used all 3 standard operating systems: Windows, MacOS, and Linux. They're all good. My preference is Linux.
+I've' used all 3 standard operating systems: Windows, MacOS, and Linux. They're all good.
 
-Currently I'm using [Ubuntu Studio](https://ubuntustudio.org/) for its preconfiguration of [Jack](https://jackaudio.org/) audio connection kit and the user friendliness of Ubuntu I've grown accustomed to ever since starting with Linux.
-
-I've also set up a preferred OS configuration using [Debian](https://www.debian.org/), which you can [copy here](./os/deb.md).
+You can copy my preferred PC configuration [here](./deb.md).
 ___
 
 Why this?
