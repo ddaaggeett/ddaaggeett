@@ -13,7 +13,7 @@
 - [a thought](./govt_version_control.md) about government methodology
 - [an odd case](./imperial_units.md) for imperial units
 - [my thoughts](./wealth_dist.md) on wealth distribution
-- copy my preferred desktop [PC configuration](../pc/index.md)
+- copy my preferred desktop [PC configuration](./pc.md)
 - a small [collection of thoughts](./conv.md) in the humanities
 
 </div>

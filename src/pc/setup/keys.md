@@ -7,15 +7,14 @@
 Press/Hold <kbd>![Windows Key][newwinlogo]</kbd> **+ number** to open the docked applications:
 
 <kbd>![Windows Key][newwinlogo]</kbd> + 1 -> terminal  
-<kbd>![Windows Key][newwinlogo]</kbd> + 2 -> files  
-<kbd>![Windows Key][newwinlogo]</kbd> + 3 -> brave browser  
-<kbd>![Windows Key][newwinlogo]</kbd> + 4 -> visual studio code
-<kbd>![Windows Key][newwinlogo]</kbd> + 5 -> obs studio
+<kbd>![Windows Key][newwinlogo]</kbd> + 2 -> text editor
+<kbd>![Windows Key][newwinlogo]</kbd> + 3 -> browser  
+<kbd>![Windows Key][newwinlogo]</kbd> + 4 -> files  
 ___
 
 If the `configuration script` hasn't been run, then handle manually:  
 Run the following in terminal:
 
-```
-gsettings set org.gnome.shell favorite-apps "['org.gnome.Terminal.desktop', 'org.gnome.Nautilus.desktop', 'brave-browser.desktop', 'atom.desktop', 'com.obsproject.Studio.desktop']"
+```bash
+gsettings set org.gnome.shell favorite-apps "['org.gnome.Terminal.desktop', 'atom.desktop', 'brave-browser.desktop', 'org.gnome.Nautilus.desktop']"
 ```
