@@ -10,9 +10,9 @@
 
 <div class="list">
 
+- my [blog](./src/blog/index.md)
 - my [work](./src/projects/index.md)
 - an incomplete and opinionated [liberal education](https://www.youtube.com/playlist?list=PLKO9AFm3pJHa2gLFKHnCH4dUcnUWjeI71)
-- my [blog](./src/blog/index.md)
 
 </div>
 

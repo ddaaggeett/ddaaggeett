@@ -132,11 +132,12 @@ aside,
     height: 100%;
 }
 
-.code * {
-	border: gray solid 1px;
-	color: orange;
-}
-
-.code body {
-	background-color: #444;
+pre code.language-bash,
+pre code.language-python,
+pre code.language-javascript,
+pre code.language-txt {
+    display: block;
+    overflow: auto;
+    background-color: dark gray;
+    color: white;
 }
