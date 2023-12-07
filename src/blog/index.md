@@ -2,7 +2,9 @@
 
 <div class="center">
 
-### Here are some interests and incomplete thoughts. Forgive my writing fluency.
+### Here are some incomplete thoughts. Forgive my writing fluency.
+
+These are ideas, nothing more.
 </div>
 
 <div class="center">

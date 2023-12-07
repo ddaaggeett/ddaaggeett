@@ -20,9 +20,9 @@ I've noticed my freedom from needing to generate an income for my family is a ma
 
 I've been wondering what it is. Am I threatening in some way? Should I seek approval for how I'm occupied? Is there a certain amount of money I should be making for myself? Which product? Which boss? How far should I commute? How fast should I be making this money? Should I financially support my wife instead? Which childcare service should I outsource to? How much social fun time am I allowed?
 
-It routinely seems that what I do is threatening to those who willingly opt out from handling particular tasks we recognize as necessary for a developing family. Either that or something along the lines of the idea I'm not a real man, whatever that means. Big brain thinkings right there - good input.
+It routinely seems that what I do is threatening to those who willingly opt out from handling particular tasks we recognize as necessary for a developing family. Either that or something along the lines of the idea I'm not a real man, whatever that means. Big brain thinkings right there.
 
-I do not claim those who don't routinely perform these homemaking tasks are creating a lesser functioning home, but I am leaving open the idea that perhaps there are more effective ways to establish structure not only for children, but for a spouse who benefits from greater focus on work outside the home. Not to mention, as I've eluded to, I also benefit from the ability to focus on things that interest me, things I can learn about, that I can turn into some form of operation or income generation.
+I do not claim those who don't routinely perform these homemaking tasks are doing anything wrong, but I am leaving open the idea that perhaps there are alternative ways to establish structure not only for children, but for a spouse who benefits from greater focus on work outside the home. Not to mention, as I've eluded to, I also benefit from the ability to focus on things that interest me, things I can learn about, that I can turn into some form of operation or income.
 ___
 
 [<span>&#8678;</span> go](../projects/index.md)
