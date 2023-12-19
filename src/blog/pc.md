@@ -1,6 +1,6 @@
 <link href="../css/styles.css" rel="stylesheet" />
 
-I've' used all 3 standard operating systems: Windows, MacOS, and Linux. They're all good.
+I've' used all 3 standard operating systems: Windows, MacOS, and [Linux](https://www.linux.com/what-is-linux/). They're all good.
 
 This is [Debian](https://www.debian.org/) Linux. I use it as my primary desktop. [Ubuntu](https://ubuntu.com/tutorials/install-ubuntu-desktop#1-overview) Linux also does the trick which tends to be better for new Linux users. I recommend [booting these with a virtual machine](https://ubuntu.com/tutorials/how-to-run-ubuntu-desktop-on-a-virtual-machine-using-virtualbox#1-overview) to test it out in your current PC before considering a full install.
 

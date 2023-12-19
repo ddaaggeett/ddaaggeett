@@ -5,46 +5,13 @@
 <div class="center">
 
 ### My Home Project Videos
-</div>
 
-#### Miter Station Cabinets
+- [Miter Station Cabinets](https://www.youtube.com/watch?v=Mo7APlYRXzc)
+- [High Garage Shelving](https://www.youtube.com/watch?v=n-lBcAZYKiI)
+- [Kitchen Pantry](https://www.youtube.com/watch?v=Q1i542LIVKw)
+- [Step Shoe Face](https://www.youtube.com/watch?v=RsaCBfMJgXk)
+- [Cutting Boards](https://www.youtube.com/watch?v=m5cJH8Kwa8U)
 
-<div class="video_container" >
-<a href="https://www.youtube.com/watch?v=Mo7APlYRXzc" target="_blank">
-<img class="video" src="https://img.youtube.com/vi/Mo7APlYRXzc/0.jpg")>
-</a>
-</div>
-
-#### High Garage Shelving
-
-<div class="video_container" >
-<a href="https://www.youtube.com/watch?v=n-lBcAZYKiI" target="_blank">
-<img class="video" src="https://img.youtube.com/vi/n-lBcAZYKiI/0.jpg")>
-</a>
-</div>
-
-#### Kitchen Pantry
-
-<div class="video_container" >
-<a href="https://www.youtube.com/watch?v=Q1i542LIVKw" target="_blank">
-<img class="video" src="https://img.youtube.com/vi/Q1i542LIVKw/0.jpg")>
-</a>
-</div>
-
-#### Step Shoe Face
-
-<div class="video_container" >
-<a href="https://www.youtube.com/watch?v=RsaCBfMJgXk" target="_blank">
-<img class="video" src="https://img.youtube.com/vi/RsaCBfMJgXk/0.jpg")>
-</a>
-</div>
-
-#### Cutting Boards
-
-<div class="video_container" >
-<a href="https://www.youtube.com/watch?v=m5cJH8Kwa8U" target="_blank">
-<img class="video" src="https://img.youtube.com/vi/m5cJH8Kwa8U/0.jpg")>
-</a>
 </div>
 
 ___
