@@ -11,6 +11,7 @@ These are not just great performances. A select few:
 - [Corn Does Grow](https://youtu.be/zkeuo9brMnI) - Theo Katzman
 - [Captain Hook](https://youtu.be/csJ7mBWb2Zo) - Vulfpeck
 - [Animal Spirits](https://youtu.be/qTUnDV3MgVQ) - Vulfpeck
+- [Letting Things Go](https://youtu.be/6pw_Wx7KpoU) - Evangeline Barrosse, Jack Stratton
 - [Revelation](https://youtu.be/7UN9uoDQovk) - Yellowjackets, Marc Russo
 - [Mile High](https://youtu.be/tcVIcBHwuJ0) - Yellowjackets, Marc Russo
 - [Sadity](https://youtu.be/12AqU_8oCU8) - Yellowjackets, Marc Russo
