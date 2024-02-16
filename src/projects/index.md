@@ -7,9 +7,10 @@
 
 <div class="center">
 
-- [home](./home.md)
-- [shop](./workshop.md)
+- [kitchen](./home.md)
+- [carpentry](./workshop.md)
 - [git](https://github.com/ddaaggeett)
+- [music + video production](https://youtube.com/playlist?list=PLAFFCFbWF1lHAQ2mS_LO-Y7xWIFuVOGhK&si=RfYl5RnvLeiCOqIc)
 </div>
 
 ___
