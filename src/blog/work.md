@@ -18,9 +18,9 @@ The psychological transformation I've had from choosing this work has been not o
 
 I've noticed my freedom from needing to generate an income for my family is a major source of people's shock and resentment. It's inevitably associated with the idea that I don't work, that I'm lazy, or that somehow I believe I'm entitled to a care-free spoiled life without challenge; the typical idea of a millennial. This can't be further from the truth. The work I accomplish is a necessity for my family, as it is for all families.
 
-I've been wondering what it is. Am I threatening in some way? Should I seek approval for how I'm occupied? Is there a certain amount of money I should be making for myself? Which product? Which boss? How far should I commute? How fast should I be making this money? Should I financially support my wife instead? Which childcare service should I outsource to? How much social fun time am I allowed?
+I've been wondering what it is. Are my actions threatening in some way? Should I seek approval for how I'm occupied? Is there a certain amount of money I should be making for myself? Which product? Which boss? How far should I commute? How fast should I be making this money? Should I financially support my wife instead? Which childcare service should I outsource to? How much social fun time am I allowed?
 
-It routinely seems that what I do is offensive to those who willingly opt out from handling particular tasks we recognize as necessary for a developing family. Either that or something along the lines of the idea I'm not a real man, whatever that means. Big brain thinkings right there.
+It routinely seems that what I do is offensive to those who willingly opt out from handling particular tasks we recognize as necessary for a developing family and it's rather unfortunate.
 
 I do not claim those who don't routinely perform these homemaking tasks are doing anything wrong, but I am leaving open the idea that perhaps there are alternative ways to establish structure not only for children, but for a spouse who benefits from greater focus on work outside the home. Not to mention, as I've eluded to, I also benefit from the ability to focus on things that interest me, things I can learn about, that I can turn into some form of operation or income.
 ___
