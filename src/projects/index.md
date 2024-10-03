@@ -7,6 +7,7 @@
 
 <div class="center">
 
+- [homes](https://walkum.xyz/homes)
 - [kitchen](./home.md)
 - [carpentry](./workshop.md)
 - [git](https://github.com/ddaaggeett)
