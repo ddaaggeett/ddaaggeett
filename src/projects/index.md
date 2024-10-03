@@ -7,11 +7,11 @@
 
 <div class="center">
 
-- [homes](https://walkum.xyz/homes)
+- [home remodeling](https://walkum.xyz/homes)
+- [media production](http://walkum.xyz)
 - [kitchen](./home.md)
 - [carpentry](./workshop.md)
 - [git](https://github.com/ddaaggeett)
-- [media production](http://walkum.xyz)
 
 </div>
 
