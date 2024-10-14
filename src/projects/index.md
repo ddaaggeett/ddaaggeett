@@ -8,7 +8,7 @@
 <div class="center">
 
 - [home remodeling](https://walkum.xyz/homes)
-- [media production](http://walkum.xyz)
+- [media production](http://walkum.xyz/records)
 - [kitchen](./home.md)
 - [carpentry](./workshop.md)
 - [git](https://github.com/ddaaggeett)
