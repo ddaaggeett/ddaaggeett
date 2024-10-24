@@ -16,7 +16,6 @@ These are ideas, nothing more.
 - [an odd case](./imperial_units.md) for imperial units
 - [my thoughts](./wealth_dist.md) on wealth distribution
 - copy my preferred desktop [PC configuration](./pc.md)
-- a small [collection of thoughts](./conv.md) in the humanities
 
 </div>
 
